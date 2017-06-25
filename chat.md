@@ -21,7 +21,7 @@ EXTRA, if you have time implement private messages
 
 #### The chat server
 
-**app.js**
+**index.js**
 
 ```
 var express = require('express');
